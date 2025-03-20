@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Distributed Computing:** Edge AI, Edge Computing, Task Offloading, Resource Allocation.
+- **Blockchain:** Blockchain System, Blockchain Security, Smart Contract Programming Analysis.
+- **DeFi:** MEV, Anomalous Transaction Monitoring & Detection, Arbitrage Alphas.
+- **AI:** Reinforcement Learning, Meta Learning, Federated Learning, LLM.
 
 ## News
 
