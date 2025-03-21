@@ -6,7 +6,7 @@ main:
     conference: IEEE Transactions on Mobile Computing
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050793
     # code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:bHJ7X-iU2l8J:scholar.google.com/&output=citation&scisdr=ClHpvFWFEIWGimHkXeA:AFWwaeYAAAAAZ9ziReDnQrLgpEs0hMfFk4H8U0E&scisig=AFWwaeYAAAAAZ9ziRUqO8IVyHEuQai_w2P4CG-g&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:bHJ7X-iU2l8J:scholar.google.com/&output=citation&scisdr=ClHpvFWFEJaGimHi-Tc:AFWwaeYAAAAAZ9zk4TeGyQc38qgV_LBLCKgWbkM&scisig=AFWwaeYAAAAAZ9zk4Tc-fyr6PmBtpwkniW-okyE&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/TMC2023.png
     # notes: Early Accept
 
