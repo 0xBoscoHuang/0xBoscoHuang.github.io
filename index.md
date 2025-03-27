@@ -3,7 +3,10 @@ layout: homepage
 ---
 
 ## About Me
+Hi, here is Yaorong Bosco Huang. Currently,I am a Blockchain Security & DeFi Researcher. 
 
+> Now, I am looking for the **Ph.D.** opportunity in **Blockchain**, **AI, DeFi**, **Fintech**, **Distributed Computing**, etc. If you you are interested in my research, please feel free to contact me.
+>
 
 
 ## Research Interests

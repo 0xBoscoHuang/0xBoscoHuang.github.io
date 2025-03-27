@@ -3,12 +3,19 @@ main:
   - title: Meta Reinforcement Learning for Multi-Task Offloading in Vehicular Edge Computing
     authors: Penglin Dai*; <strong>Yaorong Huang*</strong> ; Kaiwen Hu; Xiao Wu; Huanlai Xing; Zhaofei Yu (* Equal Contribution)
     conference_short: IEEE TMC
-    conference: IEEE Transactions on Mobile Computing
+    conference: IEEE Transactions on Mobile Computing, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050793
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:bHJ7X-iU2l8J:scholar.google.com/&output=citation&scisdr=ClHpvFWFEJaGimHi-Tc:AFWwaeYAAAAAZ9zk4TeGyQc38qgV_LBLCKgWbkM&scisig=AFWwaeYAAAAAZ9zk4Tc-fyr6PmBtpwkniW-okyE&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/TMC2023.png
     # notes: Early Accept
+
+  - title: Freshness and Security-Aware Cache Update in Blockchain-Based Vehicular Edge Networks
+    authors: Penglin Dai*; <strong>Yaorong Huang*</strong>; Xiao Wu; Ke Li; Huanlai Xing; Kai Liu (* Equal Contribution)
+    conference_short: IEEE TCE
+    conference: IEEE Transactions on Consumer Electronics, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050793
+    # code: https://github.com/MrGiovanni/ContinualLearning
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
