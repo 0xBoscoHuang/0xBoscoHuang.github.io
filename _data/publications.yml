@@ -14,7 +14,8 @@ main:
     authors: Penglin Dai*; <strong>Yaorong Huang*</strong>; Xiao Wu; Ke Li; Huanlai Xing; Kai Liu (* Equal Contribution)
     conference_short: IEEE TCE
     conference: IEEE Transactions on Consumer Electronics, 2023.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050793
+    pdf: https://ieeexplore.ieee.org/document/10371406
+    image: ./assets/img/TCE2023.png
     # code: https://github.com/MrGiovanni/ContinualLearning
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
