@@ -6,12 +6,10 @@ layout: homepage
 <!-- Hi, here is Yaorong Bosco Huang. Currently,I am a Blockchain Security & DeFi Researcher.  -->
 
 > Now, I am looking for the **Ph.D.** opportunity in **Blockchain**, **Distributed AI**, **Distributed/Edge Computing**, etc. If you you are interested in my research, please feel free to contact me.
->
 
 
 ## Research Interests
 >I am broadly interested in Distributed AI and Blockchain, aim to build a Blockchain-Empowered Distributed Intelligence system and design a Web3 protocol that supports the development of the Distributed Model-as-a-Service (MaaS) ecosystem. Specifically, including:
->
 - **Distributed AI**
   - **Distributed Computing framework**: Distributed Edge Computing, IoT, etc.
   - **Distributed AI framework**: Federated Learning, Multi-Agent Reinforcement Learning, Model-as-a-Service (MaaS).
