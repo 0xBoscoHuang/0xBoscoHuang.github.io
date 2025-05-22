@@ -1,8 +1,7 @@
 main:
 
   - title: Meta Reinforcement Learning for Multi-Task Offloading in Vehicular Edge Computing
-    authors: Penglin Dai*; <strong>Yaorong Huang*</strong> ; Kaiwen Hu; Xiao Wu; Huanlai Xing; Zhaofei Yu (* Equal Contribution)
-    conference_short: IEEE TMC
+    authors: Penglin Dai; <strong>Yaorong Huang*</strong> ; Kaiwen Hu; Xiao Wu; Huanlai Xing; Zhaofei Yu
     conference: IEEE Transactions on Mobile Computing, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050793
     # code: https://github.com/MrGiovanni/ContinualLearning
@@ -11,7 +10,7 @@ main:
     # notes: Early Accept
 
   - title: Freshness and Security-Aware Cache Update in Blockchain-Based Vehicular Edge Networks
-    authors: Penglin Dai*; <strong>Yaorong Huang*</strong>; Xiao Wu; Ke Li; Huanlai Xing; Kai Liu (* Equal Contribution)
+    authors: Penglin Dai; <strong>Yaorong Huang*</strong>; Xiao Wu; Ke Li; Huanlai Xing; Kai Liu
     conference_short: IEEE TCE
     conference: IEEE Transactions on Consumer Electronics, 2023.
     pdf: https://ieeexplore.ieee.org/document/10371406
